@@ -25,9 +25,7 @@ Here are some ideas to get you started:
 
 ## Languages and Tools
 
-[<img src="./assets/python.svg" style="width: 48px"></img>](https://www.python.org/)
-[<img src="./assets/java.svg" style="width: 48px"></img>](https://www.java.com/en/)
-[<img src="./assets/html.svg" style="width: 48px"></img>](https://en.wikipedia.org/wiki/HTML)
-[<img src="./assets/css.svg" style="width: 48px"></img>](https://en.wikipedia.org/wiki/CSS)
-[<img src="./assets/sql.svg" style="width: 48px"></img>](https://en.wikipedia.org/wiki/SQL)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="width: 48px"></img>](https://www.python.org/)
+[<img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0a/8cd7f1b14344618b75142593bc7af8/JavaCupLogo800x800.png?auto=format%2Ccompress&dpr=1" style="width: 48px"></img>](https://www.java.com/en/)
+[<img src="https://www.logolynx.com/images/logolynx/73/73dcca5b2435a4fc91983ab4170cd695.png" style="width: 48px"></img>](https://en.wikipedia.org/wiki/SQL)
 
