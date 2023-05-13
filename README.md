@@ -7,6 +7,7 @@
 - Im from [Castelo Branco, Portugal](https://www.google.com/maps/place/Castelo+Branco,+Portugal/data=!4m2!3m1!1s0xd3d5e6db147ce29:0x500ebbde49099c0?sa=X&ved=2ahUKEwj9mKez6bv4AhXIAewKHdYwCxAQ8gF6BAgKEAE)
 - I graduated in 2022 in Computer Engineering
 - I am currently a Software Developer
+- This profile will have repositories of personal projects and academic projects carried out within the scope of the master's degree that I have been attending since 2022
 
 ## Contacts
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/diogoemalves/)
